@@ -1,0 +1,3488 @@
+
+> living-resume-frontend@1.0.0 dev
+> vite --port 5173
+
+Port 5173 is in use, trying another one...
+
+  VITE v5.4.21  ready in 267 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+9:44:56 PM [vite] hmr update /src/components/GraphView.jsx
+9:45:21 PM [vite] hmr update /src/index.css
+9:45:32 PM [vite] hmr update /src/components/IngestPanel.jsx
+9:45:41 PM [vite] hmr update /src/components/IngestPanel.jsx
+9:46:05 PM [vite] hmr update /src/components/IngestPanel.jsx
+9:51:48 PM [vite] hmr update /src/components/IngestPanel.jsx
+9:51:48 PM [vite] hmr update /src/index.css
+9:51:48 PM [vite] hmr update /src/components/GraphView.jsx
+9:57:21 PM [vite] hmr update /src/components/GraphView.jsx
+9:59:12 PM [vite] hmr update /src/components/GraphView.jsx
+10:11:25 PM [vite] hmr update /src/components/GraphView.jsx
+10:19:29 PM [vite] hmr update /src/components/GraphView.jsx
+10:23:11 PM [vite] hmr update /src/components/GraphView.jsx
+10:29:30 PM [vite] hmr update /src/components/GraphView.jsx
+10:34:59 PM [vite] hmr update /src/components/GraphView.jsx
+10:36:44 PM [vite] hmr update /src/components/GraphView.jsx
+10:40:50 PM [vite] hmr update /src/components/GraphView.jsx
+10:50:58 PM [vite] hmr update /src/components/GraphView.jsx
+11:00:24 PM [vite] hmr update /src/components/GraphView.jsx
+11:00:50 PM [vite] hmr update /src/components/GraphView.jsx
+11:01:15 PM [vite] hmr update /src/components/GraphView.jsx
+11:36:00 PM [vite] hmr update /src/components/IngestPanel.jsx
+11:36:11 PM [vite] hmr update /src/components/IngestPanel.jsx
+11:51:39 PM [vite] hmr update /src/components/IngestPanel.jsx
+11:55:53 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:56:03 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:56:13 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:56:23 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:56:33 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:56:43 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:56:53 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:57:03 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:59:34 PM [vite] hmr update /src/components/IngestPanel.jsx
+11:59:36 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:59:40 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:59:40 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:59:47 PM [vite] http proxy error: /ingest/file
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:59:50 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:00:01 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:00:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:00:21 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:00:31 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:00:41 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:00:51 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:01:01 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:01:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:01:21 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:01:30 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:01:41 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:01:48 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:01:48 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:01:54 AM [vite] http proxy error: /ingest/file
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:01:58 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:02:08 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:02:18 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:02:28 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:02:38 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:02:48 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:02:58 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:03:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:03:44 AM [vite] hmr update /src/components/IngestPanel.jsx
+12:04:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:04:17 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:04:17 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:04:24 AM [vite] http proxy error: /ingest/file
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:04:27 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:04:37 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:04:47 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:04:57 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:05:07 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:05:17 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:05:27 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:05:37 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:05:47 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:05:57 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:06:07 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:07:08 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:08:09 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:08:37 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:08:40 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:08:40 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:08:49 AM [vite] http proxy error: /ingest/file
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:08:50 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:09:01 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:09:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:09:21 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:09:31 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:09:40 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:09:50 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:10:00 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:10:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:10:21 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:10:31 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:10:41 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:10:51 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:11:01 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:11:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:12:05 AM [vite] hmr update /src/components/IngestPanel.jsx
+12:12:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:12:13 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:12:13 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:12:22 AM [vite] http proxy error: /ingest/file
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:12:23 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:12:34 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:12:44 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:12:54 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:13:04 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:13:14 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:13:24 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:13:34 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:13:44 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:13:54 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:14:04 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:14:13 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:14:23 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:14:34 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:14:44 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:14:54 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:15:04 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:15:14 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:15:24 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:15:36 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:15:43 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:15:54 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:16:04 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:16:14 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:16:24 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:16:34 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:16:44 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:16:55 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:17:04 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:17:14 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:17:24 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:17:34 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:17:44 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:17:54 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:18:04 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:19:05 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:19:14 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:19:24 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:19:33 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:19:44 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:19:53 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:20:03 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:20:14 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:20:23 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:20:33 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:20:44 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:20:54 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:21:04 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:21:14 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:21:24 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:22:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:23:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:24:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:25:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:26:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:27:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:28:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:29:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:30:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:31:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:32:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:33:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:34:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:35:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:36:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:37:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:38:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:39:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:40:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:41:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:42:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:43:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:44:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:45:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:46:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:47:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:48:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:49:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:50:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:51:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:52:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:53:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:54:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:55:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:56:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:57:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:58:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:59:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:00:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:01:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:02:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:03:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:04:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:05:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:06:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:07:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:08:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:09:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:10:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:11:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:12:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:13:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:14:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:15:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:16:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:17:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:18:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:19:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:20:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:21:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:22:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:23:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:24:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:25:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:26:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:27:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:28:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:29:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:30:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:31:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:32:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:33:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:34:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:35:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:36:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:37:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:38:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:39:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:40:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:41:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:42:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:43:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:44:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:45:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:46:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:47:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:48:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:49:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:50:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:51:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:52:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:53:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:54:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:55:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:56:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:57:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:58:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+1:59:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:00:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:01:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:02:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:03:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:04:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:05:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:06:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:07:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:08:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:09:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:10:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:11:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:12:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:13:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:14:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:15:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:16:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:17:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:18:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:19:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:20:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:21:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:22:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:23:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:24:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:25:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:26:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:27:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:28:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:29:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:30:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:31:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:32:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:33:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:34:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:35:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:36:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:37:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:38:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:39:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:40:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:41:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:42:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:43:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:44:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:45:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:46:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:47:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:48:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:49:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:50:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:51:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:52:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:53:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:54:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:55:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:56:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:57:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:58:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+2:59:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:00:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:01:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:02:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:03:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:04:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:05:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:06:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:07:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:08:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:09:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:10:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:11:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:12:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:13:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:14:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:15:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:16:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:17:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:18:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:19:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:20:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:21:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:22:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:23:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:24:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:25:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:26:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:27:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:28:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:29:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:30:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:31:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:32:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:33:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:34:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:35:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:36:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:37:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:38:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:39:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:40:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:41:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:42:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:43:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:44:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:45:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:46:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:47:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:48:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:49:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:50:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:51:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:52:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:53:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:54:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:55:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:56:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:57:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:58:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+3:59:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:00:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:01:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:02:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:03:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:04:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:05:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:06:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:07:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:08:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:09:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:10:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:11:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:12:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:13:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:14:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:15:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:16:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:17:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:18:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:19:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:20:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:21:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:22:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:23:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:24:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:25:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:26:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:27:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:28:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:29:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:30:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:31:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:32:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:33:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:34:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:35:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:36:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:37:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:38:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:39:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:40:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:41:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:42:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:43:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:44:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:45:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:46:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:47:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:48:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:49:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:50:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:51:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:52:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:53:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:54:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:55:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:56:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:57:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:58:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+4:59:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:00:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:01:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:02:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:03:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:04:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:05:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:06:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:07:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:08:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:09:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:10:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:11:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:12:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:13:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:14:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:15:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:16:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:17:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:18:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:19:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:20:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:21:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:22:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:23:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:24:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:25:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:26:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:27:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:28:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:29:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:30:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:31:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:32:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:33:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:34:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:35:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:36:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:37:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:38:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:39:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:40:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:41:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:42:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:43:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:44:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:45:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:46:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:47:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:48:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:49:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:50:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:51:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:52:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:53:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:54:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:55:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:56:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:57:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:58:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+5:59:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:00:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:01:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:02:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:03:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:04:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:05:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:06:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:07:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:08:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:09:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:10:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:11:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:12:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:13:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:14:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:15:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:16:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:17:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:18:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:19:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:20:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:21:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:22:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:23:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:24:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:25:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:26:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:27:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:28:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:29:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:30:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:31:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:32:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:33:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:34:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:35:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:36:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:37:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:38:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:39:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:40:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:41:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:42:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:43:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:44:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:45:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:46:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:47:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:48:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:49:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:50:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:51:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:52:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:53:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:54:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:55:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:56:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:57:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:58:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+6:59:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:00:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:01:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:02:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:03:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:04:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:05:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:06:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:07:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:08:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:09:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:10:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:11:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:12:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:13:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:14:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:15:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:16:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:17:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:18:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:19:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:20:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:21:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:22:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:23:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:24:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:25:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:26:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:27:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:28:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:29:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:30:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:31:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:32:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:33:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:34:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:35:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:36:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:37:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:38:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:39:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:40:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:41:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:42:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:43:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:44:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:45:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:46:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:47:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:48:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:49:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:50:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:51:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:52:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:53:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:54:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:55:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:56:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:57:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:58:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+7:59:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:00:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:01:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:02:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:03:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:04:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:05:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:06:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:07:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:08:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:09:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:10:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:11:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:12:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:13:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:14:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:15:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:16:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:17:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:18:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:19:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:20:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:21:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:22:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:23:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:24:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:25:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:26:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:27:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:28:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:29:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:30:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:31:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:32:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:33:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:34:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:35:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:36:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:37:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:38:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:39:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:40:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:41:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:42:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:43:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:44:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:45:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:46:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:47:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:48:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:49:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:50:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:51:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:52:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:53:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:54:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:55:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:56:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:57:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:58:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+8:59:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:00:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:01:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:02:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:03:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:04:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:05:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:06:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:07:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:08:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:09:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:10:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:11:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:12:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:13:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:14:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:15:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:16:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:17:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:18:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:19:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:20:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:21:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:22:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:23:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:24:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:25:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:26:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:27:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:28:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:29:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:30:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:31:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:32:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:33:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:34:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:35:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:36:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:37:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:38:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:39:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:40:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:41:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:42:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:43:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:44:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:45:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:46:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:47:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:48:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:49:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:50:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:51:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:52:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:53:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:54:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:55:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:56:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:57:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:58:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+9:59:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:00:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:01:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:02:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:03:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:04:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:05:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:06:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:07:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:08:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:09:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:10:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:11:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:12:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:13:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:14:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:15:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:16:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:17:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:18:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:19:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:20:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:21:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:22:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:23:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:24:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:25:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:26:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:27:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:28:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:29:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:30:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:31:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:32:11 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:33:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:34:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:35:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:36:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:37:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:38:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:39:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:40:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:41:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:42:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:43:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:44:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:45:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:46:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:47:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:48:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:49:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:50:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:51:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:52:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:53:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:54:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:55:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:56:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:57:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:58:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+10:59:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:00:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:01:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:02:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:03:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:04:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:05:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:06:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:07:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:08:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:09:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:10:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:11:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:12:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:13:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:14:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:15:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:16:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:17:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:18:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:19:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:20:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:21:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:22:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:23:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:24:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:25:09 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:25:13 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:25:23 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:25:33 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:25:43 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:25:53 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:26:03 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:27:04 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:28:06 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:29:06 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:30:07 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:31:08 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:32:09 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:33:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:34:01 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:34:02 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:34:13 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:34:23 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:34:33 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:34:43 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:34:53 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:35:03 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:36:04 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:37:05 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:38:06 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:39:07 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:40:08 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:40:13 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:40:23 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:40:33 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:40:42 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:40:53 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:41:03 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:41:13 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:41:23 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:41:33 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:41:43 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:41:53 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:42:03 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:42:13 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:42:23 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:42:33 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:42:43 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:42:53 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:43:03 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:43:13 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:43:23 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:43:33 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:43:43 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:43:53 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:44:03 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:44:13 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:44:23 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:45:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:46:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:47:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:48:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:49:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:50:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:51:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:52:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:53:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:54:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:55:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:56:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:57:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:58:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+11:59:10 AM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:00:10 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:00:52 PM [vite] http proxy error: /stats
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1118:18)
+    at afterConnectMultiple (node:net:1685:7)
+12:38:51 PM [vite] hmr update /src/index.css
+12:39:20 PM [vite] hmr update /src/index.css
+12:40:26 PM [vite] hmr update /src/components/ChatPanel.jsx
+12:40:41 PM [vite] hmr update /src/App.jsx
+12:44:41 PM [vite] hmr update /src/index.css
+12:44:41 PM [vite] hmr update /src/App.jsx
+12:44:41 PM [vite] hmr update /src/components/ChatPanel.jsx
+12:59:42 PM [vite] hmr update /src/components/ChatPanel.jsx
+1:00:49 PM [vite] hmr update /src/index.css
+1:12:06 PM [vite] hmr update /src/components/ChatPanel.jsx
+1:12:24 PM [vite] hmr update /src/index.css
+1:24:38 PM [vite] hmr update /src/components/InterviewPanel.jsx
+1:25:46 PM [vite] hmr update /src/index.css
+1:28:39 PM [vite] hmr update /src/components/InterviewPanel.jsx
+1:31:02 PM [vite] hmr update /src/index.css
+1:31:17 PM [vite] hmr update /src/components/InterviewPanel.jsx
+1:39:21 PM [vite] hmr update /src/components/IngestPanel.jsx
+1:57:27 PM [vite] hmr update /src/components/IngestPanel.jsx
+1:57:38 PM [vite] hmr update /src/App.jsx
